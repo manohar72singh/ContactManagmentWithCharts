@@ -1,3 +1,5 @@
+/* eslint-disable eqeqeq */
+/* eslint-disable no-fallthrough */
 import { ADD_CONTACT, EDIT_CONTACT, REMOVE_CONTACT } from './actionTypes'
 
 const initialState = {
